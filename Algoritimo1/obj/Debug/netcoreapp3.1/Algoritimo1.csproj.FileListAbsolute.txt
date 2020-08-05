@@ -1,0 +1,13 @@
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.exe
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.deps.json
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.runtimeconfig.json
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.runtimeconfig.dev.json
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.dll
+C:\repo\Algoritimo1\Algoritimo1\bin\Debug\netcoreapp3.1\Algoritimo1.pdb
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.csprojAssemblyReference.cache
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.AssemblyInfoInputs.cache
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.AssemblyInfo.cs
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.csproj.CoreCompileInputs.cache
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.dll
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.pdb
+C:\repo\Algoritimo1\Algoritimo1\obj\Debug\netcoreapp3.1\Algoritimo1.genruntimeconfig.cache
